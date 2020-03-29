@@ -2,6 +2,7 @@
 China's Corona Virus Death Prediction 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kenaimachine/china_corona_virus_death_prediction/master?filepath=chinacoronavirusprediction.ipynb)
+> The building process will take a while because it is creating a whole computational environment, kind of like a virtual machine.   
 
 ### Real Time Data From:
 https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data
