@@ -1,6 +1,8 @@
 # china_corona_virus_death_prediction
 China's Corona Virus Death Prediction 
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kenaimachine/china_corona_virus_death_prediction/master?filepath=chinacoronavirusprediction.ipynb)
+
 ### Real Time Data From:
 https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data
 
